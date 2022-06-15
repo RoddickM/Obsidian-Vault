@@ -1,0 +1,3 @@
+The research and development sector are responsible for developing new products for the company to release e.g., Apple makes sure to thoroughly research and develop their phones through many stages and people before they can be made for production and release.
+
+For the R&D sector, they can use IT for testing their new products e.g., car companies can use IT to simulate the aerodynamics of the car without having to use an actual model of the car, thus saving costs in testing the car.
