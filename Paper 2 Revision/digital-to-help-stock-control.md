@@ -1,3 +1,0 @@
-Stock/inventory control is the process of accounting for the items that are within your business e.g., for a clothign shop, it is counting how many shirts you have of a certain style and whether there are too many of them, or making sure that you receive new designs every few months for your shop. 
-
-Digital can help automate this process in man ways, with one primary example being Amazon. In an Amazon Warehouse, all items have a barcode that the employees scans and then packaged with the appropriate address before they are shippped. Because they are using barcodes, the system can automatically tell if they still have the item or not, thus the employees does not have to do an stock control and only pakage and deliver the item.

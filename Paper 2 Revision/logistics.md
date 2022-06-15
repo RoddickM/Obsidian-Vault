@@ -1,3 +1,0 @@
-Logistics are responsible for transporting and managing supplies for equipment and items within a company e.g., transporting products from the factory to the shop, making sure that they have enough paper and office supplies etc.
-
-Logistics can benefit a lot from IT as it can get rid of all manual labour that logistics quite rely a lot on, such as counting and tracking stock, while it can add other benefits such as tracking the delivery of your supplies and products.

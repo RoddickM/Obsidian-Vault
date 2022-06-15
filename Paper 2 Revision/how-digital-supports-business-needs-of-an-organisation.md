@@ -1,1 +1,0 @@
-Digital technologies has helped business in multiple ways. Some of the ways it has helped business is by using [[digital-to-help-stock-control]] and using [[digital-to-help-in-collaboration]].

@@ -1,3 +1,0 @@
-Management is responsible for managing and supervising the company's staff anf employees, while implemeting business strategies and evluating the company's performance.
-
-As mentioned in the [[finance]] department, the creation of graphs and charts from tools such as Excel or Power BI allows for easier understanding of performance from specific and overall view of the company. Digital collaboration tools such as MS Teams also allows for easier communication between the employees, thus meetings can be done from wherever and whenever the employees wanted.

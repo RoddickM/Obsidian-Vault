@@ -1,6 +1,0 @@
-When creating a product, the end user's caharacteristic should be taken into consideration as they can change both the design and function of the product. Here are some characteristics you need to consider when creating a digital product:
-- Age - if they are a young audience, would you need to make the product bright and colourful to keep them engaged?
-- Skills - Who is the product for? A programmer, designer, waiter, office worker, manager etc. and what features would be beneficial in order to help the people with these skills.
-- Education level - can they read or write? If not, would you need to add images to make it easier for the user to navigate through the product?
-- Level of technical knowledge -  Are they adept in working with computers? If not would you need to simplfy certain features to help make sure the user understand how to use the digital product?
-- Additional needs - are they disabled in one form or another e.g., blind or deaf and what features would be helpful for these people? Or do they have some other needs such as autism, dyslexia or ADHD?
