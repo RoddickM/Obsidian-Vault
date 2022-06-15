@@ -1,0 +1,3 @@
+Marketing is the department where advertisement and media presence is managed. This could include organising capaigns and romotional events, to managing the company's social media and advertisement.
+
+Digital can help marketing departments greatly because the internet allows for more opportunities for digital advertisements such as web ads, youtube ads, promotional content and even the use of social media influencers has become more widespread.

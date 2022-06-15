@@ -1,0 +1,3 @@
+Finance is the sector repsonsible for all the flow of money within the company. Accounting is responsible for mainly two aspects, money coming into the company and money going out of the company
+
+Accountants within the department can benefit from IT by having it automate calculations for summary of the company's spending and earnings and even create graphs and charts to visualise the flow of money within the company.

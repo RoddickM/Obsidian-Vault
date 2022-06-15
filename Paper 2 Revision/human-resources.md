@@ -1,0 +1,3 @@
+Human resources, or HR, is the department that is responsibe for recruiting people into the company, making sure they have the right skillset, experience and qualification for the job. They are also responsible for providing benefits, compensations, learning, training and organisation development.
+
+IT can be used to help with recruitment in this sector as interviews can be done online via tools such as MS Teams and Zoom. IT can also be used to gather any complaints the employees have via an online portal to make it more efficient and anonymous.
